@@ -1,4 +1,4 @@
-lightyear
+How long is a lightyear?
 =========
 
 We imagine wrapping a basketball in clothesline with a length of 1 lightyear, where
