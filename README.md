@@ -14,3 +14,9 @@ or 2*pi*[layer's distance from center]/thickness. The length of cable this repre
 Since the total length of the wire = length of layer 1 + length of layer 2 + ... + length of layer n
 we can write this as summation, where
 [Length of Layer n] = 4*pi^2/thickness*[initial radius + n*[cable thickness]]
+
+lyClotheslineBall.py starts with the number of layers of clothesline that you want, and tells you how long
+in lightyears the clothesline would be, and how big the ball would be.
+
+ReverselyClotheslineBall.py starts with the size of the ball, and then tells you how many lightyears
+that would be equivalent to.
